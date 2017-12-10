@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache2'
 long_description 'Installs/Configures apache2'
-version '0.1.1'
+version '0.2.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 
